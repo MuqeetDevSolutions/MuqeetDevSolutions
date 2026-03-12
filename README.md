@@ -1,5 +1,34 @@
 # 💫 About Me:
-I am currently working on<br><br>Developing full-stack web applications using React JS & Python<br><br>Integrating databases for scalable and efficient solutions<br><br>Building interactive dashboards and user-friendly interfaces<br><br>I am looking to collaborate on<br><br>Open-source React JS projects<br><br>Machine Learning prototypes<br><br>Innovative web applications that solve real-world problems<br><br>I am looking for help with<br><br>Advanced React patterns & state management<br><br>Optimizing database design & queries<br><br>Implementing complex ML algorithms in real projects<br><br>I am currently learning<br><br>Advanced React JS & Next.js<br><br>Machine Learning applications in Python<br><br>Cloud integration & deployment strategies<br><br>Ask me about<br><br>Full-stack web development<br><br>React JS best practices<br><br>Database design and optimization<br><br>Machine Learning basics<br><br>Fun fact<br><br>I enjoy turning complex ideas into clean, usable code<br><br>I love experimenting with small AI & ML projects in free time<br><br>Coffee fuels my debugging superpowers ☕
+<b>💫 I am currently working on</b><br><br>
+⚛️ Developing <b>full-stack web applications</b> using React JS & Python<br>
+🗄️ Integrating <b>databases</b> for scalable and efficient solutions<br>
+📊 Building <b>interactive dashboards</b> and user-friendly interfaces<br><br>
+
+<b>🤝 I am looking to collaborate on</b><br><br>
+🌐 <b>Open-source React JS projects</b><br>
+🤖 <b>Machine Learning prototypes</b><br>
+💡 <b>Innovative web applications</b> that solve real-world problems<br><br>
+
+<b>🆘 I am looking for help with</b><br><br>
+⚡ Advanced <b>React patterns & state management</b><br>
+🗃️ Optimizing <b>database design & queries</b><br>
+🤖 Implementing <b>complex ML algorithms</b> in real projects<br><br>
+
+<b>📚 I am currently learning</b><br><br>
+⚛️ <b>Advanced React JS & Next.js</b><br>
+🤖 <b>Machine Learning applications in Python</b><br>
+☁️ <b>Cloud integration & deployment strategies</b><br><br>
+
+<b>❓ Ask me about</b><br><br>
+💻 Full-stack web development<br>
+⚛️ React JS best practices<br>
+🗄️ Database design and optimization<br>
+🤖 Machine Learning basics<br><br>
+
+<b>🎉 Fun fact</b><br><br>
+✨ I enjoy turning <b>complex ideas into clean, usable code</b><br>
+🤖 I love <b>experimenting with small AI & ML projects</b> in free time<br>
+☕ Coffee fuels my <b>debugging superpowers</b><br>
 
 
 ## 🌐 Socials:
